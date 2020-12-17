@@ -3,7 +3,7 @@ This repository is relevent to the course **COL333 (PRINCIPLES OF ARTIFICAL INTE
 
 ## Assignments
 - Assignment 1 - Implementation of basic search algorithm i.e. DFS, BFS, UNIFORM COST SEARCH, A* HEURISTIC SEARCH. Using A* in Food Corner Problem and Food Clearing Problem.
-- Assignment 2 - Making efficient evaluation functions fo states for Multi Agent Advarsarial Search.
+- Assignment 2 - Making efficient evaluation functions to evaluate the states in Multi Agent Advarsarial Search.
 
 ## Attention
 If this code is one of your assignments, I strictly recommend you to try it out first by yourself and then come and have a look, if needed. Otherwise, feel free to use it if you want to expand the language or for any other purpose.
